@@ -1,0 +1,6 @@
+#Umich Gitlab
+Host gitlab
+	Hostname gitlab.org
+	User git
+	IdentityFile ~/.ssh/id_rsa
+	
